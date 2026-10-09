@@ -25,20 +25,20 @@ I enjoy learning new things and experimenting with code. 🧑‍💻✨
 
 ## 🚀 My Goals
 
-🎯 Get better at programming  
-💡 Build cool projects  
-📚 Learn new technologies  
-🔥 Keep improving my coding skills
+                                                           🎯 Get better at programming 🎯 
+                                                             💡 Build cool projects 💡 
+                                                           📚 Learn new technologies📚  
+                                                      🔥 Keep improving my coding skills 🔥
 
 ---
 
 ## 🎮 A Few Things I Like
 
-💻 Coding  
-🎮 Games  
-🎧 Music  
-🚀 Technology  
-😎 Learning new stuff
+                                                               💻 Coding 💻 
+                                                               🎮 Games 🎮 
+                                                               🎧 Music 🎧 
+                                                             🚀 Technology🚀 
+                                                          😎 Learning new stuff😎
 
 ---
 
